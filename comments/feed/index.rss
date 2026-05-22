@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Rotas Bigtrail Brasil	</title>
-	<atom:link href="https://rotasbigtrailbrasil.com.br/comments/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>https://rotasbigtrailbrasil.com.br</link>
+	<atom:link href="http://localhost/comments/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>http://localhost</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 May 2026 00:34:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 May 2026 01:56:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
