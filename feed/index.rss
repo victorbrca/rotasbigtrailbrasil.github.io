@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rotas Bigtrail Brasil</title>
-	<atom:link href="http://localhost/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>http://localhost</link>
+	<atom:link href="nullrotasbigtrailbrasil.com.br/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>nullrotasbigtrailbrasil.com.br</link>
 	<description></description>
 	<lastBuildDate>Fri, 22 May 2026 01:56:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
-	<url>http://localhost/wp-content/uploads/2026/04/cropped-Logo-Icon-32x32.png</url>
+	<url>nullrotasbigtrailbrasil.com.br/wp-content/uploads/2026/04/cropped-Logo-Icon-32x32.png</url>
 	<title>Rotas Bigtrail Brasil</title>
-	<link>http://localhost</link>
+	<link>nullrotasbigtrailbrasil.com.br</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

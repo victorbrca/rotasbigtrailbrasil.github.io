@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://localhost/wp-sitemap.xml
+Sitemap: nullrotasbigtrailbrasil.com.br/wp-sitemap.xml
