@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Rotas Bigtrail Brasil</title>
-	<atom:link href="nullrotasbigtrailbrasil.com.br/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>nullrotasbigtrailbrasil.com.br</link>
+	<atom:link href="https://rotasbigtrailbrasil.com.br/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://rotasbigtrailbrasil.com.br</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 May 2026 01:56:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 May 2026 03:40:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
-	<url>nullrotasbigtrailbrasil.com.br/wp-content/uploads/2026/04/cropped-Logo-Icon-32x32.png</url>
+	<url>https://rotasbigtrailbrasil.com.br/wp-content/uploads/2026/04/cropped-Logo-Icon-32x32.png</url>
 	<title>Rotas Bigtrail Brasil</title>
-	<link>nullrotasbigtrailbrasil.com.br</link>
+	<link>https://rotasbigtrailbrasil.com.br</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
