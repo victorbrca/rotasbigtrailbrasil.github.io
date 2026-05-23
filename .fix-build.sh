@@ -7,7 +7,6 @@ if [ ! -f "../Build/production.zip" ] ; then
 fi
 echo "Extracting build"
 unzip -q "../Build/production.zip" -d "../Build/production"
-read
 
 echo "Checking build dir"
 if [ ! -f "../Build/production/index.html" ] ; then
