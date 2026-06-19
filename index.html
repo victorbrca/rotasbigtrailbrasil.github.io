@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em Breve | Rotas Bigtrail Brasil</title>
+    <style>
+        /* * CORES DO SITE:
+         * Altere os códigos hexadecimais abaixo para as cores exatas do projeto.
+         */
+        :root {
+            --cor-fundo: #121212; /* Cor de fundo principal (atualmente escuro) */
+            --cor-texto: #F5F5F5; /* Cor do texto principal */
+            --cor-destaque: #D35400; /* Cor de destaque para botões e detalhes (substitua pela cor principal do site) */
+            --cor-secundaria: #A6ACAF; /* Cor para os subtítulos */
+        }
+
+        /* Reset e Configurações Básicas */
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--cor-fundo);
+            color: var(--cor-texto);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        /* Container do Conteúdo */
+        .container {
+            max-width: 750px;
+            padding: 40px 20px;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* Tipografia */
+        h1 {
+            font-size: 4rem;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--cor-texto);
+        }
+
+        .destaque {
+            color: var(--cor-destaque);
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 400;
+            margin-bottom: 30px;
+            color: var(--cor-secundaria);
+            font-style: italic;
+        }
+
+        p {
+            font-size: 1.15rem;
+            line-height: 1.6;
+            margin-bottom: 30px;
+            color: #CCCCCC;
+        }
+
+        /* Elemento Visual - Linha de Separação */
+        .linha-decorativa {
+            width: 80px;
+            height: 4px;
+            background-color: var(--cor-destaque);
+            margin: 0 auto 30px auto;
+            border-radius: 2px;
+        }
+
+        /* Formulário de Notificação */
+        .newsletter-form {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        input[type="email"] {
+            padding: 15px 20px;
+            font-size: 1rem;
+            border: 1px solid #333;
+            background-color: #1A1A1A;
+            color: #FFF;
+            border-radius: 4px;
+            width: 100%;
+            max-width: 320px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        input[type="email"]:focus {
+            border-color: var(--cor-destaque);
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 1rem;
+            background-color: var(--cor-destaque);
+            color: #FFF;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            transition: opacity 0.3s ease, transform 0.1s ease;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        button:active {
+            transform: scale(0.98);
+        }
+
+        /* Animação de Entrada */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Ajustes para Celular (Mobile) */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2.8rem;
+            }
+            h2 {
+                font-size: 1.2rem;
+            }
+            .newsletter-form {
+                flex-direction: column;
+                align-items: center;
+            }
+            button {
+                width: 100%;
+                max-width: 320px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Em <span class="destaque">Breve</span></h1>
+        <div class="linha-decorativa"></div>
+        
+        <h2>Aonde a estrada acaba, a verdadeira jornada começa.</h2>
+        
+        <p>Os melhores cenários do Brasil, prontos para a sua Bigtrail. Estamos ajustando os últimos detalhes de nossos roteiros off-road gratuitos, validados e organizados para você explorar o interior do país.</p>
+        <p>Baixe o arquivo, foque na paisagem e deixe a navegação com a gente.</p>
+
+    </div>
+
+</body>
+</html>
