@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rotas Bigtrail Brasil</title>
+	<atom:link href="https://rotasbigtrailbrasil.com.br/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://rotasbigtrailbrasil.com.br</link>
+	<description>Os melhores cenários do Brasil, prontos para a sua Bigtrail.</description>
+	<lastBuildDate>Wed, 01 Jul 2026 21:25:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+
+<image>
+	<url>https://rotasbigtrailbrasil.com.br/wp-content/uploads/2026/04/cropped-Logo-Icon-32x32.png</url>
+	<title>Rotas Bigtrail Brasil</title>
+	<link>https://rotasbigtrailbrasil.com.br</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>O Rotas Bigtrail Brasil está no ar!</title>
+		<link>https://rotasbigtrailbrasil.com.br/estamos-on-line/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2026 21:24:17 +0000</pubDate>
+				<category><![CDATA[Novidades]]></category>
+		<guid isPermaLink="false">https://rotasbigtrailbrasil.com.br/?p=692</guid>
+
+					<description><![CDATA[Bem-vindo ao Rotas Bigtrail Brasil! É com muita satisfação que damos início ao Rotas Bigtrail Brasil. Este projeto nasceu da paixão por explorar o Brasil sobre duas rodas e da vontade de facilitar o planejamento de viagens para quem também vive esse estilo de vida. Depois de muitas estradas percorridas, horas de pesquisa e desenvolvimento, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading">Bem-vindo ao Rotas Bigtrail Brasil!</h1>
+
+
+
+<p class="wp-block-paragraph">É com muita satisfação que damos início ao <strong>Rotas Bigtrail Brasil</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">Este projeto nasceu da paixão por explorar o Brasil sobre duas rodas e da vontade de facilitar o planejamento de viagens para quem também vive esse estilo de vida. Depois de muitas estradas percorridas, horas de pesquisa e desenvolvimento, o site finalmente está no ar.</p>
+
+
+
+<p class="wp-block-paragraph">Aqui você encontrará rotas detalhadas, informações sobre o percurso, nível de dificuldade, porcentagem de asfalto e off-road, pontos de interesse, dicas úteis e muito mais. Nosso compromisso é oferecer conteúdo confiável, baseado em experiências reais, para que você possa planejar sua próxima aventura com mais segurança e aproveitar cada quilômetro da viagem.</p>
+
+
+
+<p class="wp-block-paragraph">Esta é apenas a primeira de muitas novidades. Estamos trabalhando continuamente para adicionar novas rotas, melhorar os guias existentes e trazer recursos que tornem sua experiência ainda melhor.</p>
+
+
+
+<p class="wp-block-paragraph">Seja você um piloto experiente ou alguém que está começando no mundo das big trails, esperamos que este seja um lugar onde você encontre inspiração para descobrir novos destinos e viver grandes aventuras.</p>
+
+
+
+<p class="wp-block-paragraph">Obrigado por fazer parte desse começo.</p>
+
+
+
+<p class="wp-block-paragraph">Nos vemos na estrada!</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -78,8 +78,8 @@
     <sym>Scenic Area</sym>
   </wpt>
   <wpt lat="-28.070305169798" lon="-49.564829850447">
-    <name>Travessia de Rio</name>
-    <sym>Water Crossing</sym>
+    <name>Water Crossing</name>
+    <sym>default</sym>
   </wpt>
   <wpt lat="-28.069638888889" lon="-49.524277777778">
     <name>Mirante 2 - Cascata Véu de Noiva</name>
@@ -111,7 +111,7 @@
   </wpt>
   <wpt lat="-28.016259132442" lon="-49.37128045774">
     <name>Travessia de Rio</name>
-    <sym>Water Crossing</sym>
+    <sym>default</sym>
   </wpt>
   <wpt lat="-28.016249250139" lon="-49.37126412042">
     <name>Ponte</name>
@@ -162,12 +162,12 @@
     <sym>default</sym>
   </wpt>
   <wpt lat="-27.965296" lon="-49.433871">
-    <name>Travessia de Rio</name>
-    <sym>Water Crossing</sym>
+    <name>Rio</name>
+    <sym>default</sym>
   </wpt>
   <wpt lat="-27.953004" lon="-49.435234">
-    <name>Travessia de Rio</name>
-    <sym>Water Crossing</sym>
+    <name>Rio</name>
+    <sym>default</sym>
   </wpt>
   <wpt lat="-27.99032758189" lon="-49.582653945559">
     <name>Posto Lorenzetti</name>
@@ -186,488 +186,963 @@
     <sym>Hospital</sym>
   </wpt>
   <trk>
-    <name>Rota</name>
+    <name>Serra do Corvo Branco + Route 12 (Part 1) + Route 11 (Copy)</name>
     <number>1</number>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
       </gpxx:TrackExtension>
       <dmd:PreRendered version="1" hash="sha256:df14316eb74dfb3f" profile="">
         <dmd:Surface>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
-          <dmd:S s="0" e="0" sf="" hw="" p="1"/>
+          <dmd:S s="0" e="2" sf="paved" hw="secondary" p="1"/>
+          <dmd:S s="2" e="3" sf="paved" hw="secondary" p="1"/>
+          <dmd:S s="3" e="4" sf="" hw="residential" p="1"/>
+          <dmd:S s="4" e="28" sf="" hw="residential" p="1"/>
+          <dmd:S s="28" e="46" sf="" hw="residential" p="1"/>
+          <dmd:S s="46" e="66" sf="" hw="unclassified" p="1"/>
+          <dmd:S s="66" e="125" sf="" hw="unclassified" p="1"/>
+          <dmd:S s="125" e="138" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="138" e="154" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="154" e="173" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="173" e="192" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="192" e="214" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="214" e="246" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="246" e="261" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="261" e="282" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="282" e="302" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="302" e="315" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="261" e="262" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="262" e="305" sf="unpaved" hw="construction" p="0"/>
+          <dmd:S s="305" e="315" sf="paved" hw="construction" p="1"/>
+          <dmd:S s="315" e="316" sf="asphalt" hw="unclassified" p="1"/>
+          <dmd:S s="316" e="331" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="331" e="387" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="387" e="398" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="398" e="415" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="415" e="467" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="467" e="469" sf="concrete" hw="unclassified" p="1"/>
+          <dmd:S s="469" e="548" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="548" e="548" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="548" e="548" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="548" e="575" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="575" e="596" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="596" e="607" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="607" e="677" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="677" e="683" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="683" e="688" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="688" e="750" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="750" e="782" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="782" e="793" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="793" e="806" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="806" e="843" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="843" e="858" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="858" e="874" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="874" e="913" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="913" e="930" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="930" e="965" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="965" e="1017" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1017" e="1056" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1056" e="1077" sf="" hw="track" p="0"/>
+          <dmd:S s="1077" e="1092" sf="" hw="track" p="0"/>
+          <dmd:S s="1092" e="1118" sf="" hw="track" p="0"/>
+          <dmd:S s="1118" e="1179" sf="" hw="track" p="0"/>
+          <dmd:S s="1179" e="1229" sf="" hw="track" p="0"/>
+          <dmd:S s="1229" e="1237" sf="" hw="track" p="0"/>
+          <dmd:S s="1237" e="1355" sf="" hw="track" p="0"/>
+          <dmd:S s="1355" e="1381" sf="" hw="track" p="0"/>
+          <dmd:S s="1381" e="1416" sf="" hw="track" p="0"/>
+          <dmd:S s="1416" e="1432" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1432" e="1447" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1447" e="1485" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1485" e="1508" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1508" e="1524" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1524" e="1542" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1542" e="1604" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1604" e="1609" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1609" e="1683" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1683" e="1694" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1694" e="1707" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1707" e="1733" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1733" e="1739" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1739" e="1742" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1742" e="1743" sf="unpaved" hw="track" p="0"/>
+          <dmd:S s="1743" e="1819" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1819" e="1820" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1820" e="1851" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1851" e="1857" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1857" e="1857" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1857" e="1878" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1878" e="1906" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1906" e="1921" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="1921" e="1926" sf="asphalt" hw="unclassified" p="1"/>
+          <dmd:S s="1926" e="1949" sf="asphalt" hw="unclassified" p="1"/>
+          <dmd:S s="1949" e="1957" sf="asphalt" hw="unclassified" p="1"/>
+          <dmd:S s="1957" e="1976" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="1976" e="1993" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="1993" e="2009" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2009" e="2020" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2020" e="2037" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2037" e="2054" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2054" e="2069" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2069" e="2070" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2070" e="2071" sf="asphalt" hw="secondary" p="1"/>
+          <dmd:S s="2071" e="2072" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2072" e="2088" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2088" e="2106" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2106" e="2111" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2111" e="2114" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2114" e="2116" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2116" e="2117" sf="asphalt" hw="secondary" p="1"/>
+          <dmd:S s="2117" e="2118" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2118" e="2121" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2121" e="2125" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2125" e="2131" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2131" e="2152" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2152" e="2166" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2166" e="2169" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2169" e="2197" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2197" e="2217" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2217" e="2252" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2252" e="2274" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="2274" e="2351" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="2351" e="2352" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="2352" e="2437" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="2437" e="3015" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3015" e="3025" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3025" e="3053" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3053" e="3107" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3107" e="3110" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3110" e="3123" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3123" e="3137" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3137" e="3141" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3141" e="3145" sf="gravel" hw="service" p="0"/>
+          <dmd:S s="3145" e="3150" sf="gravel" hw="service" p="0"/>
+          <dmd:S s="3150" e="3167" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3167" e="3180" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3180" e="3183" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3183" e="3238" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3238" e="3265" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3265" e="3290" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3290" e="3393" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3393" e="3489" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3489" e="3856" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3856" e="3936" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3936" e="3937" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="3937" e="4014" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4014" e="4017" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4017" e="4017" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4017" e="4020" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4020" e="4035" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4035" e="4046" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4046" e="4048" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4048" e="4053" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4053" e="4054" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4054" e="4056" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4056" e="4059" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4059" e="4060" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4060" e="4060" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4060" e="4061" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4061" e="4062" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4062" e="4064" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4064" e="4077" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4077" e="4078" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4078" e="4081" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4081" e="4092" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4092" e="4094" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4094" e="4106" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4106" e="4123" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4123" e="4124" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4124" e="4128" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4128" e="4130" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4130" e="4140" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4140" e="4142" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4142" e="4142" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4142" e="4148" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4148" e="4164" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4164" e="4165" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4165" e="4166" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4166" e="4168" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4168" e="4171" sf="unpaved" hw="residential" p="0"/>
+          <dmd:S s="4171" e="4177" sf="unpaved" hw="residential" p="0"/>
+          <dmd:S s="4177" e="4183" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4183" e="4199" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4199" e="4209" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4209" e="4217" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="4217" e="4285" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4285" e="4317" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4317" e="4318" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4318" e="4363" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4363" e="4381" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4381" e="4382" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4382" e="4393" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4393" e="4396" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4396" e="4421" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4421" e="4444" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4444" e="4460" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4460" e="4485" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4485" e="4507" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4507" e="4508" sf="concrete" hw="tertiary" p="1"/>
+          <dmd:S s="4508" e="4511" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4511" e="4518" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4518" e="4519" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4519" e="4520" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4520" e="4521" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4521" e="4523" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4523" e="4525" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4525" e="4526" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4526" e="4531" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4531" e="4533" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4533" e="4544" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4544" e="4559" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4559" e="4561" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4561" e="4586" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4586" e="4621" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4621" e="4642" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4642" e="4670" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4670" e="4685" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4685" e="4706" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4706" e="4712" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4712" e="4714" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4714" e="4717" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4717" e="4720" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4720" e="4723" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4723" e="4728" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4728" e="4746" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4746" e="4763" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4763" e="4764" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4764" e="4809" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4809" e="4844" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4844" e="4856" sf="concrete" hw="tertiary" p="1"/>
+          <dmd:S s="4856" e="4869" sf="concrete" hw="tertiary" p="1"/>
+          <dmd:S s="4869" e="4912" sf="asphalt" hw="tertiary" p="1"/>
+          <dmd:S s="4912" e="4970" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="4970" e="5079" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5079" e="5171" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5171" e="5232" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5232" e="5342" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5342" e="5396" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5396" e="5397" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5397" e="5450" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5450" e="5450" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5450" e="5463" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5463" e="5466" sf="paving_stones" hw="residential" p="1"/>
+          <dmd:S s="5466" e="5468" sf="sett" hw="residential" p="1"/>
+          <dmd:S s="5468" e="5470" sf="sett" hw="residential" p="1"/>
+          <dmd:S s="5470" e="5471" sf="sett" hw="residential" p="1"/>
+          <dmd:S s="5471" e="5473" sf="" hw="primary" p="1"/>
+          <dmd:S s="5473" e="5474" sf="" hw="primary" p="1"/>
+          <dmd:S s="5474" e="5474" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5474" e="5476" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5476" e="5477" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="5477" e="5478" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5478" e="5479" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5479" e="5479" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5479" e="5480" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5480" e="5481" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5481" e="5482" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5482" e="5483" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="5483" e="5484" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5484" e="5485" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5485" e="5486" sf="" hw="primary" p="1"/>
+          <dmd:S s="5486" e="5487" sf="" hw="primary" p="1"/>
+          <dmd:S s="5487" e="5488" sf="" hw="primary" p="1"/>
+          <dmd:S s="5488" e="5489" sf="" hw="primary" p="1"/>
+          <dmd:S s="5489" e="5490" sf="" hw="primary" p="1"/>
+          <dmd:S s="5490" e="5492" sf="" hw="primary" p="1"/>
+          <dmd:S s="5492" e="5493" sf="" hw="primary" p="1"/>
+          <dmd:S s="5493" e="5494" sf="" hw="primary" p="1"/>
+          <dmd:S s="5494" e="5495" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5495" e="5496" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5496" e="5497" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5497" e="5499" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5499" e="5515" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5515" e="5519" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5519" e="5535" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5535" e="5544" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5544" e="5554" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5554" e="5562" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5562" e="5591" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5591" e="5592" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5592" e="5618" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5618" e="5643" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5643" e="5674" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5674" e="5684" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5684" e="5690" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5690" e="5698" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5698" e="5714" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5714" e="5720" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5720" e="5723" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5723" e="5735" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5735" e="5743" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5743" e="5752" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5752" e="5771" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5771" e="5823" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5823" e="5825" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5825" e="5846" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5846" e="5856" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5856" e="5859" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5859" e="5862" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5862" e="5863" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5863" e="5873" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5873" e="5876" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5876" e="5907" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5907" e="5925" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5925" e="5931" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5931" e="5938" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5938" e="5958" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5958" e="5960" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5960" e="5966" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5966" e="5967" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="5967" e="5968" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5968" e="5986" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5986" e="5987" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="5987" e="6026" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6026" e="6027" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6027" e="6205" sf="earth" hw="unclassified" p="0"/>
+          <dmd:S s="6205" e="6258" sf="earth" hw="unclassified" p="0"/>
+          <dmd:S s="6258" e="6303" sf="earth" hw="unclassified" p="0"/>
+          <dmd:S s="6303" e="6348" sf="earth" hw="unclassified" p="0"/>
+          <dmd:S s="6348" e="6349" sf="earth" hw="unclassified" p="0"/>
+          <dmd:S s="6349" e="6429" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6429" e="6453" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6453" e="6454" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6454" e="6499" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6499" e="6500" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6500" e="6509" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6509" e="6535" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6535" e="6536" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6536" e="6752" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6752" e="6920" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="6920" e="7041" sf="unpaved" hw="unclassified" p="0"/>
+          <dmd:S s="7041" e="7044" sf="unpaved" hw="residential" p="0"/>
+          <dmd:S s="7044" e="7045" sf="unpaved" hw="residential" p="0"/>
+          <dmd:S s="7045" e="7047" sf="unpaved" hw="residential" p="0"/>
+          <dmd:S s="7047" e="7048" sf="paving_stones" hw="residential" p="1"/>
+          <dmd:S s="7048" e="7049" sf="" hw="residential" p="1"/>
+          <dmd:S s="7049" e="7052" sf="paving_stones" hw="residential" p="1"/>
+          <dmd:S s="7052" e="7058" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7058" e="7059" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7059" e="7060" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7060" e="7063" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7063" e="7065" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7065" e="7069" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7069" e="7070" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7070" e="7072" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7072" e="7075" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7075" e="7077" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7077" e="7079" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7079" e="7081" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7081" e="7082" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7082" e="7083" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7083" e="7087" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7087" e="7094" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7094" e="7094" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7094" e="7103" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7103" e="7110" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7110" e="7113" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7113" e="7114" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7114" e="7117" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7117" e="7118" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7118" e="7119" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7119" e="7122" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7122" e="7130" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7130" e="7134" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7134" e="7135" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7135" e="7136" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7136" e="7137" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7137" e="7138" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7138" e="7140" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7140" e="7144" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7144" e="7158" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7158" e="7173" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7173" e="7176" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7176" e="7177" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7177" e="7184" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7184" e="7217" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7217" e="7231" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7231" e="7240" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7240" e="7241" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7241" e="7242" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7242" e="7248" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7248" e="7257" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7257" e="7275" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7275" e="7277" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7277" e="7278" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7278" e="7283" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7283" e="7284" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7284" e="7287" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7287" e="7288" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7288" e="7289" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7289" e="7290" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7290" e="7291" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7291" e="7292" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7292" e="7293" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7293" e="7294" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7294" e="7295" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7295" e="7298" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7298" e="7303" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7303" e="7319" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7319" e="7321" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7321" e="7345" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7345" e="7377" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7377" e="7388" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7388" e="7410" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7410" e="7423" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7423" e="7453" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7453" e="7462" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7462" e="7464" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7464" e="7495" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7495" e="7525" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7525" e="7551" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7551" e="7580" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7580" e="7594" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7594" e="7639" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7639" e="7670" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7670" e="7677" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7677" e="7697" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7697" e="7718" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7718" e="7799" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7799" e="7807" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7807" e="7825" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7825" e="7838" sf="concrete" hw="primary" p="1"/>
+          <dmd:S s="7838" e="7862" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7862" e="7878" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7878" e="7881" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7881" e="7885" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7885" e="7901" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7901" e="7906" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7906" e="7920" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7920" e="7937" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7937" e="7952" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="7952" e="8068" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8068" e="8081" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8081" e="8084" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8084" e="8090" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8090" e="8136" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8136" e="8143" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8143" e="8150" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8150" e="8151" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8151" e="8162" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8162" e="8183" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8183" e="8186" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8186" e="8190" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8190" e="8218" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8218" e="8222" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8222" e="8226" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8226" e="8229" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8229" e="8233" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8233" e="8238" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8238" e="8239" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8239" e="8240" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8240" e="8242" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8242" e="8244" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8244" e="8246" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8246" e="8246" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8246" e="8248" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8248" e="8249" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8249" e="8250" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8250" e="8251" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8251" e="8254" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8254" e="8258" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8258" e="8260" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8260" e="8260" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8260" e="8262" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8262" e="8265" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8265" e="8283" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8283" e="8290" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8290" e="8291" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8291" e="8297" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8297" e="8298" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8298" e="8313" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8313" e="8350" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8350" e="8351" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8351" e="8352" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8352" e="8353" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8353" e="8354" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8354" e="8357" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8357" e="8358" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8358" e="8362" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8362" e="8363" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8363" e="8364" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8364" e="8365" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8365" e="8366" sf="asphalt" hw="primary" p="1"/>
+          <dmd:S s="8366" e="8367" sf="asphalt" hw="primary" p="1"/>
         </dmd:Surface>
+        <dmd:Timing>
+          <dmd:T s="0" e="2" t="15.6" spd="74.2"/>
+          <dmd:T s="2" e="3" t="16.0" spd="74.2"/>
+          <dmd:T s="3" e="4" t="1.8" spd="74.2"/>
+          <dmd:T s="4" e="28" t="99.5" spd="74.2"/>
+          <dmd:T s="28" e="46" t="78.3" spd="74.2"/>
+          <dmd:T s="46" e="66" t="70.2" spd="74.2"/>
+          <dmd:T s="66" e="125" t="322.7" spd="74.2"/>
+          <dmd:T s="125" e="138" t="122.2" spd="46.4"/>
+          <dmd:T s="138" e="154" t="83.6" spd="74.2"/>
+          <dmd:T s="154" e="173" t="85.8" spd="74.2"/>
+          <dmd:T s="173" e="192" t="80.1" spd="74.2"/>
+          <dmd:T s="192" e="214" t="76.1" spd="74.2"/>
+          <dmd:T s="214" e="246" t="131.8" spd="74.2"/>
+          <dmd:T s="246" e="261" t="74.3" spd="74.2"/>
+          <dmd:T s="261" e="282" t="55.4" spd="74.2"/>
+          <dmd:T s="282" e="302" t="46.4" spd="74.2"/>
+          <dmd:T s="302" e="315" t="18.7" spd="74.2"/>
+          <dmd:T s="261" e="262" t="5.4" spd="46.4"/>
+          <dmd:T s="262" e="305" t="167.0" spd="46.4"/>
+          <dmd:T s="305" e="315" t="12.8" spd="74.2"/>
+          <dmd:T s="315" e="316" t="10.5" spd="74.2"/>
+          <dmd:T s="316" e="331" t="63.4" spd="46.4"/>
+          <dmd:T s="331" e="387" t="420.2" spd="46.4"/>
+          <dmd:T s="387" e="398" t="57.5" spd="46.4"/>
+          <dmd:T s="398" e="415" t="134.9" spd="46.4"/>
+          <dmd:T s="415" e="467" t="268.9" spd="46.4"/>
+          <dmd:T s="467" e="469" t="3.4" spd="74.2"/>
+          <dmd:T s="469" e="548" t="358.2" spd="46.4"/>
+          <dmd:T s="548" e="548" t="0.0" spd="0.0"/>
+          <dmd:T s="548" e="548" t="0.0" spd="0.0"/>
+          <dmd:T s="548" e="575" t="147.1" spd="46.4"/>
+          <dmd:T s="575" e="596" t="191.6" spd="46.4"/>
+          <dmd:T s="596" e="607" t="70.5" spd="46.4"/>
+          <dmd:T s="607" e="677" t="372.3" spd="46.4"/>
+          <dmd:T s="677" e="683" t="19.4" spd="46.4"/>
+          <dmd:T s="683" e="688" t="14.5" spd="46.4"/>
+          <dmd:T s="688" e="750" t="457.2" spd="46.4"/>
+          <dmd:T s="750" e="782" t="242.2" spd="46.4"/>
+          <dmd:T s="782" e="793" t="118.4" spd="46.4"/>
+          <dmd:T s="793" e="806" t="102.6" spd="46.4"/>
+          <dmd:T s="806" e="843" t="455.5" spd="46.4"/>
+          <dmd:T s="843" e="858" t="258.2" spd="46.4"/>
+          <dmd:T s="858" e="874" t="256.8" spd="46.4"/>
+          <dmd:T s="874" e="913" t="307.2" spd="46.4"/>
+          <dmd:T s="913" e="930" t="116.9" spd="46.4"/>
+          <dmd:T s="930" e="965" t="215.6" spd="46.4"/>
+          <dmd:T s="965" e="1017" t="250.0" spd="46.4"/>
+          <dmd:T s="1017" e="1056" t="242.1" spd="46.4"/>
+          <dmd:T s="1056" e="1077" t="137.0" spd="46.4"/>
+          <dmd:T s="1077" e="1092" t="78.8" spd="46.4"/>
+          <dmd:T s="1092" e="1118" t="139.8" spd="46.4"/>
+          <dmd:T s="1118" e="1179" t="298.4" spd="46.4"/>
+          <dmd:T s="1179" e="1229" t="258.3" spd="46.4"/>
+          <dmd:T s="1229" e="1237" t="34.8" spd="46.4"/>
+          <dmd:T s="1237" e="1355" t="619.0" spd="46.4"/>
+          <dmd:T s="1355" e="1381" t="181.2" spd="46.4"/>
+          <dmd:T s="1381" e="1416" t="219.6" spd="46.4"/>
+          <dmd:T s="1416" e="1432" t="81.0" spd="46.4"/>
+          <dmd:T s="1432" e="1447" t="50.5" spd="46.4"/>
+          <dmd:T s="1447" e="1485" t="199.3" spd="46.4"/>
+          <dmd:T s="1485" e="1508" t="151.2" spd="46.4"/>
+          <dmd:T s="1508" e="1524" t="135.6" spd="46.4"/>
+          <dmd:T s="1524" e="1542" t="429.8" spd="46.4"/>
+          <dmd:T s="1542" e="1604" t="473.8" spd="46.4"/>
+          <dmd:T s="1604" e="1609" t="48.8" spd="46.4"/>
+          <dmd:T s="1609" e="1683" t="1121.0" spd="46.4"/>
+          <dmd:T s="1683" e="1694" t="66.3" spd="46.4"/>
+          <dmd:T s="1694" e="1707" t="142.1" spd="46.4"/>
+          <dmd:T s="1707" e="1733" t="407.7" spd="46.4"/>
+          <dmd:T s="1733" e="1739" t="72.6" spd="46.4"/>
+          <dmd:T s="1739" e="1742" t="30.7" spd="46.4"/>
+          <dmd:T s="1742" e="1743" t="7.8" spd="46.4"/>
+          <dmd:T s="1743" e="1819" t="608.8" spd="46.4"/>
+          <dmd:T s="1819" e="1820" t="11.8" spd="46.4"/>
+          <dmd:T s="1820" e="1851" t="193.0" spd="46.4"/>
+          <dmd:T s="1851" e="1857" t="25.4" spd="46.4"/>
+          <dmd:T s="1857" e="1857" t="0.0" spd="0.0"/>
+          <dmd:T s="1857" e="1878" t="100.1" spd="46.4"/>
+          <dmd:T s="1878" e="1906" t="159.8" spd="46.4"/>
+          <dmd:T s="1906" e="1921" t="92.7" spd="46.4"/>
+          <dmd:T s="1921" e="1926" t="12.7" spd="74.2"/>
+          <dmd:T s="1926" e="1949" t="107.6" spd="74.2"/>
+          <dmd:T s="1949" e="1957" t="41.2" spd="74.2"/>
+          <dmd:T s="1957" e="1976" t="102.4" spd="74.2"/>
+          <dmd:T s="1976" e="1993" t="135.3" spd="74.2"/>
+          <dmd:T s="1993" e="2009" t="53.7" spd="74.2"/>
+          <dmd:T s="2009" e="2020" t="37.0" spd="74.2"/>
+          <dmd:T s="2020" e="2037" t="60.5" spd="74.2"/>
+          <dmd:T s="2037" e="2054" t="74.8" spd="74.2"/>
+          <dmd:T s="2054" e="2069" t="75.6" spd="74.2"/>
+          <dmd:T s="2069" e="2070" t="3.2" spd="74.2"/>
+          <dmd:T s="2070" e="2071" t="3.8" spd="74.2"/>
+          <dmd:T s="2071" e="2072" t="4.7" spd="74.2"/>
+          <dmd:T s="2072" e="2088" t="79.4" spd="74.2"/>
+          <dmd:T s="2088" e="2106" t="90.7" spd="74.2"/>
+          <dmd:T s="2106" e="2111" t="24.8" spd="74.2"/>
+          <dmd:T s="2111" e="2114" t="6.0" spd="74.2"/>
+          <dmd:T s="2114" e="2116" t="5.4" spd="74.2"/>
+          <dmd:T s="2116" e="2117" t="2.6" spd="74.2"/>
+          <dmd:T s="2117" e="2118" t="1.8" spd="74.2"/>
+          <dmd:T s="2118" e="2121" t="12.6" spd="74.2"/>
+          <dmd:T s="2121" e="2125" t="16.7" spd="74.2"/>
+          <dmd:T s="2125" e="2131" t="30.0" spd="74.2"/>
+          <dmd:T s="2131" e="2152" t="129.9" spd="74.2"/>
+          <dmd:T s="2152" e="2166" t="104.4" spd="74.2"/>
+          <dmd:T s="2166" e="2169" t="26.3" spd="74.2"/>
+          <dmd:T s="2169" e="2197" t="125.8" spd="74.2"/>
+          <dmd:T s="2197" e="2217" t="76.1" spd="74.2"/>
+          <dmd:T s="2217" e="2252" t="114.5" spd="74.2"/>
+          <dmd:T s="2252" e="2274" t="102.8" spd="74.2"/>
+          <dmd:T s="2274" e="2351" t="443.1" spd="46.4"/>
+          <dmd:T s="2351" e="2352" t="1.7" spd="46.4"/>
+          <dmd:T s="2352" e="2437" t="481.4" spd="46.4"/>
+          <dmd:T s="2437" e="3015" t="4025.4" spd="46.4"/>
+          <dmd:T s="3015" e="3025" t="85.0" spd="46.4"/>
+          <dmd:T s="3025" e="3053" t="128.7" spd="46.4"/>
+          <dmd:T s="3053" e="3107" t="0.0" spd="0.0"/>
+          <dmd:T s="3107" e="3110" t="0.0" spd="0.0"/>
+          <dmd:T s="3110" e="3123" t="0.0" spd="0.0"/>
+          <dmd:T s="3123" e="3137" t="0.0" spd="0.0"/>
+          <dmd:T s="3137" e="3141" t="0.0" spd="0.0"/>
+          <dmd:T s="3141" e="3145" t="0.0" spd="0.0"/>
+          <dmd:T s="3145" e="3150" t="0.0" spd="0.0"/>
+          <dmd:T s="3150" e="3167" t="0.0" spd="0.0"/>
+          <dmd:T s="3167" e="3180" t="0.0" spd="0.0"/>
+          <dmd:T s="3180" e="3183" t="0.0" spd="0.0"/>
+          <dmd:T s="3183" e="3238" t="0.0" spd="0.0"/>
+          <dmd:T s="3238" e="3265" t="0.0" spd="0.0"/>
+          <dmd:T s="3265" e="3290" t="0.0" spd="0.0"/>
+          <dmd:T s="3290" e="3393" t="0.0" spd="0.0"/>
+          <dmd:T s="3393" e="3489" t="0.0" spd="0.0"/>
+          <dmd:T s="3489" e="3856" t="0.0" spd="0.0"/>
+          <dmd:T s="3856" e="3936" t="0.0" spd="0.0"/>
+          <dmd:T s="3936" e="3937" t="0.0" spd="0.0"/>
+          <dmd:T s="3937" e="4014" t="0.0" spd="0.0"/>
+          <dmd:T s="4014" e="4017" t="0.0" spd="0.0"/>
+          <dmd:T s="4017" e="4017" t="0.0" spd="0.0"/>
+          <dmd:T s="4017" e="4020" t="0.0" spd="0.0"/>
+          <dmd:T s="4020" e="4035" t="0.0" spd="0.0"/>
+          <dmd:T s="4035" e="4046" t="0.0" spd="0.0"/>
+          <dmd:T s="4046" e="4048" t="0.0" spd="0.0"/>
+          <dmd:T s="4048" e="4053" t="0.0" spd="0.0"/>
+          <dmd:T s="4053" e="4054" t="0.0" spd="0.0"/>
+          <dmd:T s="4054" e="4056" t="0.0" spd="0.0"/>
+          <dmd:T s="4056" e="4059" t="0.0" spd="0.0"/>
+          <dmd:T s="4059" e="4060" t="0.0" spd="0.0"/>
+          <dmd:T s="4060" e="4060" t="0.0" spd="0.0"/>
+          <dmd:T s="4060" e="4061" t="0.0" spd="0.0"/>
+          <dmd:T s="4061" e="4062" t="0.0" spd="0.0"/>
+          <dmd:T s="4062" e="4064" t="0.0" spd="0.0"/>
+          <dmd:T s="4064" e="4077" t="0.0" spd="0.0"/>
+          <dmd:T s="4077" e="4078" t="0.0" spd="0.0"/>
+          <dmd:T s="4078" e="4081" t="0.0" spd="0.0"/>
+          <dmd:T s="4081" e="4092" t="0.0" spd="0.0"/>
+          <dmd:T s="4092" e="4094" t="0.0" spd="0.0"/>
+          <dmd:T s="4094" e="4106" t="0.0" spd="0.0"/>
+          <dmd:T s="4106" e="4123" t="0.0" spd="0.0"/>
+          <dmd:T s="4123" e="4124" t="0.0" spd="0.0"/>
+          <dmd:T s="4124" e="4128" t="0.0" spd="0.0"/>
+          <dmd:T s="4128" e="4130" t="0.0" spd="0.0"/>
+          <dmd:T s="4130" e="4140" t="0.0" spd="0.0"/>
+          <dmd:T s="4140" e="4142" t="0.0" spd="0.0"/>
+          <dmd:T s="4142" e="4142" t="0.0" spd="0.0"/>
+          <dmd:T s="4142" e="4148" t="0.0" spd="0.0"/>
+          <dmd:T s="4148" e="4164" t="0.0" spd="0.0"/>
+          <dmd:T s="4164" e="4165" t="0.0" spd="0.0"/>
+          <dmd:T s="4165" e="4166" t="0.0" spd="0.0"/>
+          <dmd:T s="4166" e="4168" t="0.0" spd="0.0"/>
+          <dmd:T s="4168" e="4171" t="0.0" spd="0.0"/>
+          <dmd:T s="4171" e="4177" t="0.0" spd="0.0"/>
+          <dmd:T s="4177" e="4183" t="0.0" spd="0.0"/>
+          <dmd:T s="4183" e="4199" t="0.0" spd="0.0"/>
+          <dmd:T s="4199" e="4209" t="0.0" spd="0.0"/>
+          <dmd:T s="4209" e="4217" t="0.0" spd="0.0"/>
+          <dmd:T s="4217" e="4285" t="0.0" spd="0.0"/>
+          <dmd:T s="4285" e="4317" t="0.0" spd="0.0"/>
+          <dmd:T s="4317" e="4318" t="0.0" spd="0.0"/>
+          <dmd:T s="4318" e="4363" t="0.0" spd="0.0"/>
+          <dmd:T s="4363" e="4381" t="0.0" spd="0.0"/>
+          <dmd:T s="4381" e="4382" t="0.0" spd="0.0"/>
+          <dmd:T s="4382" e="4393" t="0.0" spd="0.0"/>
+          <dmd:T s="4393" e="4396" t="0.0" spd="0.0"/>
+          <dmd:T s="4396" e="4421" t="0.0" spd="0.0"/>
+          <dmd:T s="4421" e="4444" t="0.0" spd="0.0"/>
+          <dmd:T s="4444" e="4460" t="0.0" spd="0.0"/>
+          <dmd:T s="4460" e="4485" t="0.0" spd="0.0"/>
+          <dmd:T s="4485" e="4507" t="0.0" spd="0.0"/>
+          <dmd:T s="4507" e="4508" t="0.0" spd="0.0"/>
+          <dmd:T s="4508" e="4511" t="0.0" spd="0.0"/>
+          <dmd:T s="4511" e="4518" t="0.0" spd="0.0"/>
+          <dmd:T s="4518" e="4519" t="0.0" spd="0.0"/>
+          <dmd:T s="4519" e="4520" t="0.0" spd="0.0"/>
+          <dmd:T s="4520" e="4521" t="0.0" spd="0.0"/>
+          <dmd:T s="4521" e="4523" t="0.0" spd="0.0"/>
+          <dmd:T s="4523" e="4525" t="0.0" spd="0.0"/>
+          <dmd:T s="4525" e="4526" t="0.0" spd="0.0"/>
+          <dmd:T s="4526" e="4531" t="0.0" spd="0.0"/>
+          <dmd:T s="4531" e="4533" t="0.0" spd="0.0"/>
+          <dmd:T s="4533" e="4544" t="0.0" spd="0.0"/>
+          <dmd:T s="4544" e="4559" t="0.0" spd="0.0"/>
+          <dmd:T s="4559" e="4561" t="0.0" spd="0.0"/>
+          <dmd:T s="4561" e="4586" t="0.0" spd="0.0"/>
+          <dmd:T s="4586" e="4621" t="0.0" spd="0.0"/>
+          <dmd:T s="4621" e="4642" t="0.0" spd="0.0"/>
+          <dmd:T s="4642" e="4670" t="0.0" spd="0.0"/>
+          <dmd:T s="4670" e="4685" t="0.0" spd="0.0"/>
+          <dmd:T s="4685" e="4706" t="0.0" spd="0.0"/>
+          <dmd:T s="4706" e="4712" t="0.0" spd="0.0"/>
+          <dmd:T s="4712" e="4714" t="0.0" spd="0.0"/>
+          <dmd:T s="4714" e="4717" t="0.0" spd="0.0"/>
+          <dmd:T s="4717" e="4720" t="0.0" spd="0.0"/>
+          <dmd:T s="4720" e="4723" t="0.0" spd="0.0"/>
+          <dmd:T s="4723" e="4728" t="0.0" spd="0.0"/>
+          <dmd:T s="4728" e="4746" t="0.0" spd="0.0"/>
+          <dmd:T s="4746" e="4763" t="0.0" spd="0.0"/>
+          <dmd:T s="4763" e="4764" t="0.0" spd="0.0"/>
+          <dmd:T s="4764" e="4809" t="0.0" spd="0.0"/>
+          <dmd:T s="4809" e="4844" t="0.0" spd="0.0"/>
+          <dmd:T s="4844" e="4856" t="0.0" spd="0.0"/>
+          <dmd:T s="4856" e="4869" t="0.0" spd="0.0"/>
+          <dmd:T s="4869" e="4912" t="0.0" spd="0.0"/>
+          <dmd:T s="4912" e="4970" t="0.0" spd="0.0"/>
+          <dmd:T s="4970" e="5079" t="0.0" spd="0.0"/>
+          <dmd:T s="5079" e="5171" t="0.0" spd="0.0"/>
+          <dmd:T s="5171" e="5232" t="0.0" spd="0.0"/>
+          <dmd:T s="5232" e="5342" t="0.0" spd="0.0"/>
+          <dmd:T s="5342" e="5396" t="0.0" spd="0.0"/>
+          <dmd:T s="5396" e="5397" t="0.0" spd="0.0"/>
+          <dmd:T s="5397" e="5450" t="0.0" spd="0.0"/>
+          <dmd:T s="5450" e="5450" t="0.0" spd="0.0"/>
+          <dmd:T s="5450" e="5463" t="0.0" spd="0.0"/>
+          <dmd:T s="5463" e="5466" t="0.0" spd="0.0"/>
+          <dmd:T s="5466" e="5468" t="0.0" spd="0.0"/>
+          <dmd:T s="5468" e="5470" t="0.0" spd="0.0"/>
+          <dmd:T s="5470" e="5471" t="0.0" spd="0.0"/>
+          <dmd:T s="5471" e="5473" t="0.0" spd="0.0"/>
+          <dmd:T s="5473" e="5474" t="0.0" spd="0.0"/>
+          <dmd:T s="5474" e="5474" t="0.0" spd="0.0"/>
+          <dmd:T s="5474" e="5476" t="0.0" spd="0.0"/>
+          <dmd:T s="5476" e="5477" t="0.0" spd="0.0"/>
+          <dmd:T s="5477" e="5478" t="0.0" spd="0.0"/>
+          <dmd:T s="5478" e="5479" t="0.0" spd="0.0"/>
+          <dmd:T s="5479" e="5479" t="0.0" spd="0.0"/>
+          <dmd:T s="5479" e="5480" t="0.0" spd="0.0"/>
+          <dmd:T s="5480" e="5481" t="0.0" spd="0.0"/>
+          <dmd:T s="5481" e="5482" t="0.0" spd="0.0"/>
+          <dmd:T s="5482" e="5483" t="0.0" spd="0.0"/>
+          <dmd:T s="5483" e="5484" t="0.0" spd="0.0"/>
+          <dmd:T s="5484" e="5485" t="0.0" spd="0.0"/>
+          <dmd:T s="5485" e="5486" t="0.0" spd="0.0"/>
+          <dmd:T s="5486" e="5487" t="0.0" spd="0.0"/>
+          <dmd:T s="5487" e="5488" t="0.0" spd="0.0"/>
+          <dmd:T s="5488" e="5489" t="0.0" spd="0.0"/>
+          <dmd:T s="5489" e="5490" t="0.0" spd="0.0"/>
+          <dmd:T s="5490" e="5492" t="0.0" spd="0.0"/>
+          <dmd:T s="5492" e="5493" t="0.0" spd="0.0"/>
+          <dmd:T s="5493" e="5494" t="0.0" spd="0.0"/>
+          <dmd:T s="5494" e="5495" t="0.0" spd="0.0"/>
+          <dmd:T s="5495" e="5496" t="0.0" spd="0.0"/>
+          <dmd:T s="5496" e="5497" t="0.0" spd="0.0"/>
+          <dmd:T s="5497" e="5499" t="0.0" spd="0.0"/>
+          <dmd:T s="5499" e="5515" t="0.0" spd="0.0"/>
+          <dmd:T s="5515" e="5519" t="0.0" spd="0.0"/>
+          <dmd:T s="5519" e="5535" t="0.0" spd="0.0"/>
+          <dmd:T s="5535" e="5544" t="0.0" spd="0.0"/>
+          <dmd:T s="5544" e="5554" t="0.0" spd="0.0"/>
+          <dmd:T s="5554" e="5562" t="0.0" spd="0.0"/>
+          <dmd:T s="5562" e="5591" t="0.0" spd="0.0"/>
+          <dmd:T s="5591" e="5592" t="0.0" spd="0.0"/>
+          <dmd:T s="5592" e="5618" t="0.0" spd="0.0"/>
+          <dmd:T s="5618" e="5643" t="0.0" spd="0.0"/>
+          <dmd:T s="5643" e="5674" t="0.0" spd="0.0"/>
+          <dmd:T s="5674" e="5684" t="0.0" spd="0.0"/>
+          <dmd:T s="5684" e="5690" t="0.0" spd="0.0"/>
+          <dmd:T s="5690" e="5698" t="0.0" spd="0.0"/>
+          <dmd:T s="5698" e="5714" t="0.0" spd="0.0"/>
+          <dmd:T s="5714" e="5720" t="0.0" spd="0.0"/>
+          <dmd:T s="5720" e="5723" t="0.0" spd="0.0"/>
+          <dmd:T s="5723" e="5735" t="0.0" spd="0.0"/>
+          <dmd:T s="5735" e="5743" t="0.0" spd="0.0"/>
+          <dmd:T s="5743" e="5752" t="0.0" spd="0.0"/>
+          <dmd:T s="5752" e="5771" t="0.0" spd="0.0"/>
+          <dmd:T s="5771" e="5823" t="0.0" spd="0.0"/>
+          <dmd:T s="5823" e="5825" t="0.0" spd="0.0"/>
+          <dmd:T s="5825" e="5846" t="0.0" spd="0.0"/>
+          <dmd:T s="5846" e="5856" t="0.0" spd="0.0"/>
+          <dmd:T s="5856" e="5859" t="0.0" spd="0.0"/>
+          <dmd:T s="5859" e="5862" t="0.0" spd="0.0"/>
+          <dmd:T s="5862" e="5863" t="0.0" spd="0.0"/>
+          <dmd:T s="5863" e="5873" t="0.0" spd="0.0"/>
+          <dmd:T s="5873" e="5876" t="0.0" spd="0.0"/>
+          <dmd:T s="5876" e="5907" t="0.0" spd="0.0"/>
+          <dmd:T s="5907" e="5925" t="0.0" spd="0.0"/>
+          <dmd:T s="5925" e="5931" t="0.0" spd="0.0"/>
+          <dmd:T s="5931" e="5938" t="0.0" spd="0.0"/>
+          <dmd:T s="5938" e="5958" t="0.0" spd="0.0"/>
+          <dmd:T s="5958" e="5960" t="0.0" spd="0.0"/>
+          <dmd:T s="5960" e="5966" t="0.0" spd="0.0"/>
+          <dmd:T s="5966" e="5967" t="0.0" spd="0.0"/>
+          <dmd:T s="5967" e="5968" t="0.0" spd="0.0"/>
+          <dmd:T s="5968" e="5986" t="0.0" spd="0.0"/>
+          <dmd:T s="5986" e="5987" t="0.0" spd="0.0"/>
+          <dmd:T s="5987" e="6026" t="0.0" spd="0.0"/>
+          <dmd:T s="6026" e="6027" t="0.0" spd="0.0"/>
+          <dmd:T s="6027" e="6205" t="0.0" spd="0.0"/>
+          <dmd:T s="6205" e="6258" t="0.0" spd="0.0"/>
+          <dmd:T s="6258" e="6303" t="0.0" spd="0.0"/>
+          <dmd:T s="6303" e="6348" t="0.0" spd="0.0"/>
+          <dmd:T s="6348" e="6349" t="0.0" spd="0.0"/>
+          <dmd:T s="6349" e="6429" t="0.0" spd="0.0"/>
+          <dmd:T s="6429" e="6453" t="0.0" spd="0.0"/>
+          <dmd:T s="6453" e="6454" t="0.0" spd="0.0"/>
+          <dmd:T s="6454" e="6499" t="0.0" spd="0.0"/>
+          <dmd:T s="6499" e="6500" t="0.0" spd="0.0"/>
+          <dmd:T s="6500" e="6509" t="0.0" spd="0.0"/>
+          <dmd:T s="6509" e="6535" t="0.0" spd="0.0"/>
+          <dmd:T s="6535" e="6536" t="0.0" spd="0.0"/>
+          <dmd:T s="6536" e="6752" t="0.0" spd="0.0"/>
+          <dmd:T s="6752" e="6920" t="0.0" spd="0.0"/>
+          <dmd:T s="6920" e="7041" t="0.0" spd="0.0"/>
+          <dmd:T s="7041" e="7044" t="0.0" spd="0.0"/>
+          <dmd:T s="7044" e="7045" t="0.0" spd="0.0"/>
+          <dmd:T s="7045" e="7047" t="0.0" spd="0.0"/>
+          <dmd:T s="7047" e="7048" t="0.0" spd="0.0"/>
+          <dmd:T s="7048" e="7049" t="0.0" spd="0.0"/>
+          <dmd:T s="7049" e="7052" t="0.0" spd="0.0"/>
+          <dmd:T s="7052" e="7058" t="0.0" spd="0.0"/>
+          <dmd:T s="7058" e="7059" t="0.0" spd="0.0"/>
+          <dmd:T s="7059" e="7060" t="0.0" spd="0.0"/>
+          <dmd:T s="7060" e="7063" t="0.0" spd="0.0"/>
+          <dmd:T s="7063" e="7065" t="0.0" spd="0.0"/>
+          <dmd:T s="7065" e="7069" t="0.0" spd="0.0"/>
+          <dmd:T s="7069" e="7070" t="0.0" spd="0.0"/>
+          <dmd:T s="7070" e="7072" t="0.0" spd="0.0"/>
+          <dmd:T s="7072" e="7075" t="0.0" spd="0.0"/>
+          <dmd:T s="7075" e="7077" t="0.0" spd="0.0"/>
+          <dmd:T s="7077" e="7079" t="0.0" spd="0.0"/>
+          <dmd:T s="7079" e="7081" t="0.0" spd="0.0"/>
+          <dmd:T s="7081" e="7082" t="0.0" spd="0.0"/>
+          <dmd:T s="7082" e="7083" t="0.0" spd="0.0"/>
+          <dmd:T s="7083" e="7087" t="0.0" spd="0.0"/>
+          <dmd:T s="7087" e="7094" t="0.0" spd="0.0"/>
+          <dmd:T s="7094" e="7094" t="0.0" spd="0.0"/>
+          <dmd:T s="7094" e="7103" t="0.0" spd="0.0"/>
+          <dmd:T s="7103" e="7110" t="0.0" spd="0.0"/>
+          <dmd:T s="7110" e="7113" t="0.0" spd="0.0"/>
+          <dmd:T s="7113" e="7114" t="0.0" spd="0.0"/>
+          <dmd:T s="7114" e="7117" t="0.0" spd="0.0"/>
+          <dmd:T s="7117" e="7118" t="0.0" spd="0.0"/>
+          <dmd:T s="7118" e="7119" t="0.0" spd="0.0"/>
+          <dmd:T s="7119" e="7122" t="0.0" spd="0.0"/>
+          <dmd:T s="7122" e="7130" t="0.0" spd="0.0"/>
+          <dmd:T s="7130" e="7134" t="0.0" spd="0.0"/>
+          <dmd:T s="7134" e="7135" t="0.0" spd="0.0"/>
+          <dmd:T s="7135" e="7136" t="0.0" spd="0.0"/>
+          <dmd:T s="7136" e="7137" t="0.0" spd="0.0"/>
+          <dmd:T s="7137" e="7138" t="0.0" spd="0.0"/>
+          <dmd:T s="7138" e="7140" t="0.0" spd="0.0"/>
+          <dmd:T s="7140" e="7144" t="0.0" spd="0.0"/>
+          <dmd:T s="7144" e="7158" t="0.0" spd="0.0"/>
+          <dmd:T s="7158" e="7173" t="0.0" spd="0.0"/>
+          <dmd:T s="7173" e="7176" t="0.0" spd="0.0"/>
+          <dmd:T s="7176" e="7177" t="0.0" spd="0.0"/>
+          <dmd:T s="7177" e="7184" t="0.0" spd="0.0"/>
+          <dmd:T s="7184" e="7217" t="0.0" spd="0.0"/>
+          <dmd:T s="7217" e="7231" t="0.0" spd="0.0"/>
+          <dmd:T s="7231" e="7240" t="0.0" spd="0.0"/>
+          <dmd:T s="7240" e="7241" t="0.0" spd="0.0"/>
+          <dmd:T s="7241" e="7242" t="0.0" spd="0.0"/>
+          <dmd:T s="7242" e="7248" t="0.0" spd="0.0"/>
+          <dmd:T s="7248" e="7257" t="0.0" spd="0.0"/>
+          <dmd:T s="7257" e="7275" t="0.0" spd="0.0"/>
+          <dmd:T s="7275" e="7277" t="0.0" spd="0.0"/>
+          <dmd:T s="7277" e="7278" t="0.0" spd="0.0"/>
+          <dmd:T s="7278" e="7283" t="0.0" spd="0.0"/>
+          <dmd:T s="7283" e="7284" t="0.0" spd="0.0"/>
+          <dmd:T s="7284" e="7287" t="0.0" spd="0.0"/>
+          <dmd:T s="7287" e="7288" t="0.0" spd="0.0"/>
+          <dmd:T s="7288" e="7289" t="0.0" spd="0.0"/>
+          <dmd:T s="7289" e="7290" t="0.0" spd="0.0"/>
+          <dmd:T s="7290" e="7291" t="0.0" spd="0.0"/>
+          <dmd:T s="7291" e="7292" t="0.0" spd="0.0"/>
+          <dmd:T s="7292" e="7293" t="0.0" spd="0.0"/>
+          <dmd:T s="7293" e="7294" t="0.0" spd="0.0"/>
+          <dmd:T s="7294" e="7295" t="0.0" spd="0.0"/>
+          <dmd:T s="7295" e="7298" t="0.0" spd="0.0"/>
+          <dmd:T s="7298" e="7303" t="0.0" spd="0.0"/>
+          <dmd:T s="7303" e="7319" t="0.0" spd="0.0"/>
+          <dmd:T s="7319" e="7321" t="0.0" spd="0.0"/>
+          <dmd:T s="7321" e="7345" t="0.0" spd="0.0"/>
+          <dmd:T s="7345" e="7377" t="0.0" spd="0.0"/>
+          <dmd:T s="7377" e="7388" t="0.0" spd="0.0"/>
+          <dmd:T s="7388" e="7410" t="0.0" spd="0.0"/>
+          <dmd:T s="7410" e="7423" t="0.0" spd="0.0"/>
+          <dmd:T s="7423" e="7453" t="0.0" spd="0.0"/>
+          <dmd:T s="7453" e="7462" t="0.0" spd="0.0"/>
+          <dmd:T s="7462" e="7464" t="0.0" spd="0.0"/>
+          <dmd:T s="7464" e="7495" t="0.0" spd="0.0"/>
+          <dmd:T s="7495" e="7525" t="0.0" spd="0.0"/>
+          <dmd:T s="7525" e="7551" t="0.0" spd="0.0"/>
+          <dmd:T s="7551" e="7580" t="0.0" spd="0.0"/>
+          <dmd:T s="7580" e="7594" t="0.0" spd="0.0"/>
+          <dmd:T s="7594" e="7639" t="0.0" spd="0.0"/>
+          <dmd:T s="7639" e="7670" t="0.0" spd="0.0"/>
+          <dmd:T s="7670" e="7677" t="0.0" spd="0.0"/>
+          <dmd:T s="7677" e="7697" t="0.0" spd="0.0"/>
+          <dmd:T s="7697" e="7718" t="0.0" spd="0.0"/>
+          <dmd:T s="7718" e="7799" t="0.0" spd="0.0"/>
+          <dmd:T s="7799" e="7807" t="0.0" spd="0.0"/>
+          <dmd:T s="7807" e="7825" t="0.0" spd="0.0"/>
+          <dmd:T s="7825" e="7838" t="0.0" spd="0.0"/>
+          <dmd:T s="7838" e="7862" t="0.0" spd="0.0"/>
+          <dmd:T s="7862" e="7878" t="0.0" spd="0.0"/>
+          <dmd:T s="7878" e="7881" t="0.0" spd="0.0"/>
+          <dmd:T s="7881" e="7885" t="0.0" spd="0.0"/>
+          <dmd:T s="7885" e="7901" t="0.0" spd="0.0"/>
+          <dmd:T s="7901" e="7906" t="0.0" spd="0.0"/>
+          <dmd:T s="7906" e="7920" t="0.0" spd="0.0"/>
+          <dmd:T s="7920" e="7937" t="0.0" spd="0.0"/>
+          <dmd:T s="7937" e="7952" t="0.0" spd="0.0"/>
+          <dmd:T s="7952" e="8068" t="0.0" spd="0.0"/>
+          <dmd:T s="8068" e="8081" t="0.0" spd="0.0"/>
+          <dmd:T s="8081" e="8084" t="0.0" spd="0.0"/>
+          <dmd:T s="8084" e="8090" t="0.0" spd="0.0"/>
+          <dmd:T s="8090" e="8136" t="0.0" spd="0.0"/>
+          <dmd:T s="8136" e="8143" t="0.0" spd="0.0"/>
+          <dmd:T s="8143" e="8150" t="0.0" spd="0.0"/>
+          <dmd:T s="8150" e="8151" t="0.0" spd="0.0"/>
+          <dmd:T s="8151" e="8162" t="0.0" spd="0.0"/>
+          <dmd:T s="8162" e="8183" t="0.0" spd="0.0"/>
+          <dmd:T s="8183" e="8186" t="0.0" spd="0.0"/>
+          <dmd:T s="8186" e="8190" t="0.0" spd="0.0"/>
+          <dmd:T s="8190" e="8218" t="0.0" spd="0.0"/>
+          <dmd:T s="8218" e="8222" t="0.0" spd="0.0"/>
+          <dmd:T s="8222" e="8226" t="0.0" spd="0.0"/>
+          <dmd:T s="8226" e="8229" t="0.0" spd="0.0"/>
+          <dmd:T s="8229" e="8233" t="0.0" spd="0.0"/>
+          <dmd:T s="8233" e="8238" t="0.0" spd="0.0"/>
+          <dmd:T s="8238" e="8239" t="0.0" spd="0.0"/>
+          <dmd:T s="8239" e="8240" t="0.0" spd="0.0"/>
+          <dmd:T s="8240" e="8242" t="0.0" spd="0.0"/>
+          <dmd:T s="8242" e="8244" t="0.0" spd="0.0"/>
+          <dmd:T s="8244" e="8246" t="0.0" spd="0.0"/>
+          <dmd:T s="8246" e="8246" t="0.0" spd="0.0"/>
+          <dmd:T s="8246" e="8248" t="0.0" spd="0.0"/>
+          <dmd:T s="8248" e="8249" t="0.0" spd="0.0"/>
+          <dmd:T s="8249" e="8250" t="0.0" spd="0.0"/>
+          <dmd:T s="8250" e="8251" t="0.0" spd="0.0"/>
+          <dmd:T s="8251" e="8254" t="0.0" spd="0.0"/>
+          <dmd:T s="8254" e="8258" t="0.0" spd="0.0"/>
+          <dmd:T s="8258" e="8260" t="0.0" spd="0.0"/>
+          <dmd:T s="8260" e="8260" t="0.0" spd="0.0"/>
+          <dmd:T s="8260" e="8262" t="0.0" spd="0.0"/>
+          <dmd:T s="8262" e="8265" t="0.0" spd="0.0"/>
+          <dmd:T s="8265" e="8283" t="0.0" spd="0.0"/>
+          <dmd:T s="8283" e="8290" t="0.0" spd="0.0"/>
+          <dmd:T s="8290" e="8291" t="0.0" spd="0.0"/>
+          <dmd:T s="8291" e="8297" t="0.0" spd="0.0"/>
+          <dmd:T s="8297" e="8298" t="0.0" spd="0.0"/>
+          <dmd:T s="8298" e="8313" t="0.0" spd="0.0"/>
+          <dmd:T s="8313" e="8350" t="0.0" spd="0.0"/>
+          <dmd:T s="8350" e="8351" t="0.0" spd="0.0"/>
+          <dmd:T s="8351" e="8352" t="0.0" spd="0.0"/>
+          <dmd:T s="8352" e="8353" t="0.0" spd="0.0"/>
+          <dmd:T s="8353" e="8354" t="0.0" spd="0.0"/>
+          <dmd:T s="8354" e="8357" t="0.0" spd="0.0"/>
+          <dmd:T s="8357" e="8358" t="0.0" spd="0.0"/>
+          <dmd:T s="8358" e="8362" t="0.0" spd="0.0"/>
+          <dmd:T s="8362" e="8363" t="0.0" spd="0.0"/>
+          <dmd:T s="8363" e="8364" t="0.0" spd="0.0"/>
+          <dmd:T s="8364" e="8365" t="0.0" spd="0.0"/>
+          <dmd:T s="8365" e="8366" t="0.0" spd="0.0"/>
+          <dmd:T s="8366" e="8367" t="0.0" spd="0.0"/>
+        </dmd:Timing>
         <dmd:Warnings>
           <dmd:W type="SLOPE" lat="-28.178799" lon="-49.218488" dist="1380" val="16.0"/>
           <dmd:W type="SLOPE" lat="-28.167584" lon="-49.237692" dist="4035" val="17.7"/>
@@ -889,8 +1364,13 @@
           <dmd:W type="SLOPE" lat="-28.381602" lon="-49.458955" dist="272277" val="16.8"/>
           <dmd:W type="SLOPE" lat="-28.390286" lon="-49.411781" dist="277941" val="19.9"/>
           <dmd:W type="SLOPE" lat="-28.389931" lon="-49.408784" dist="278279" val="17.5"/>
+          <dmd:W type="UNPAVED" lat="-28.111107" lon="-49.272959" dist="12450" len="1574"/>
+          <dmd:W type="UNPAVED" lat="-28.059433" lon="-49.353592" dist="24982" len="2220"/>
+          <dmd:W type="UNPAVED" lat="-28.054625" lon="-49.368325" dist="27682" len="12170"/>
+          <dmd:W type="UNPAVED" lat="-27.993883" lon="-49.354354" dist="39922" len="138765"/>
+          <dmd:W type="UNPAVED" lat="-28.162042" lon="-49.612708" dist="212949" len="66535"/>
         </dmd:Warnings>
-        <dmd:Stats dist="279484" gain="9274" loss="9172" eleMin="0.0" eleMax="1689.8" time="0" paved="100" maxSlope="3394.4" minSlope="-1801.7"/>
+        <dmd:Stats dist="279484" gain="9274" loss="9172" eleMin="0.0" eleMax="1689.8" time="20123" paved="40" maxSlope="3394.4" minSlope="-1801.7"/>
       </dmd:PreRendered>
     </extensions>
     <trkseg>
