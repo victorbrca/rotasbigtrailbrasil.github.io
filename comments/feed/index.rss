@@ -11,11 +11,11 @@
 	<atom:link href="https://rotasbigtrailbrasil.com.br/comments/feed/index.rss" rel="self" type="application/rss+xml" />
 	<link>https://rotasbigtrailbrasil.com.br</link>
 	<description>Os melhores cenários do Brasil, prontos para a sua Bigtrail.</description>
-	<lastBuildDate>Mon, 06 Jul 2026 19:14:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jul 2026 22:51:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0</generator>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
 </channel>
 </rss>
