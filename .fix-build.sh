@@ -31,13 +31,17 @@ echo "Restoring CNAME"
 cp ../CNAME .
 sleep .5
 
-echo "Adding files to repo"
-git add .
+echo "Restoring README.md"
+cp ../README.md .
 sleep .5
 
-echo "Commiting change"
-git commit -m "$(date)"
-sleep .5
-
-echo "Pushing change"
-git push
+#echo "Adding files to repo"
+#git add .
+#sleep .5
+#
+#echo "Commiting change"
+#git commit -m "$(date)"
+#sleep .5
+#
+#echo "Pushing change"
+#git push
